@@ -9,9 +9,6 @@
   },
   "author": "Anonymous Falcon",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/AnonymousFalcon/VercelMCServer/issues"
-  },
   "homepage": "https://github.com/AnonymousFalcon/VercelMCServer",
   "dependencies": {
     "ngrok": "^3.3.0"
